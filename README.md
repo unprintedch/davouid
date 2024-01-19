@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davouid
-- 👀 I’m interested in wordpress and tailwind
-- 🌱 I’m currently strugling with import form api to wordpress ...
-- 📫 How to reach me david_trivialmass.ch
+- 👀 I’m interested in WordPress and tailwind
+- 🌱 I’m currently strugling with import from apis to WordPress ...
+- 📫 How to reach me dc_at_unprited.ch
 
 <!---
 davouid/davouid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
